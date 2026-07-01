@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR6n0143/X/v1
+canonical_location: https://kanripo.org/bkk/KR6n0143/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 相宗八要
+  identifiers:
+    krp: KR6n0143
+    cbeta: X55n0899
+    cbeta_old_id: X55n0899
+    authorityid: CA0003563
+    json_key: X0899
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0899.xml
+    old_id: X55n0899
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 1, filename: KR6n0143_001-X.yaml, hash: 'sha256:6c746d91f069c6267da0f117cd67ac6a63d5aa103a68279b5ed40ec462fbb85e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0143_001-X.markers.yaml, hash: 'sha256:a72528076746a4bebb9e514dfcdf3373705b45b53b864a881092abf800896d5d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0143_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 240
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0143_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: No. 899-A 因明入正理論題辭
+  type: mulu
+  level: 1
+hash: sha256:ea558bda4181e0a6ef4bc12d6aec796a8cae45827c2c6fee40b6e16edb24cf66

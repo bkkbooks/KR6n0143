@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6n0143/x/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因明入正理論題辭諸法本因曰正理徹諸法本因曰正智理由智顯宗假因明因智為能入正理為所入菩薩證真現量真比量故有真能立真能破以智照理以自悟他故曰因明入正理如立真如則入真如正理立唯識則入唯識正理立無常則入無常正理苟非證真之人則一開口而三十三過隨之立量豈易乎哉譬如禮樂征伐自天子出則諸候拱手聽命而天下治自諸候大夫出則四夷交侵民無所措其手足矣故閱此論者如客兒閱帝王世譜雖知昭穆次序而不能冐神明之胄又如盡識三千律條而身非刑官遂欲加之有罪其誰服之然則學者所急務在證真哉務在證真哉秀水真實居士馮夢禎題
+  hash: sha256:6df8ca4a310b7f52a004da15f1397ecf34df5aa2e5f636d95d1792e0c66e2b0f
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6n0143_X_001-juan-start, juan_n: '001'}
+  - {type: 序, offset: 0, content: No. 899-A 因明入正理論題辭, id: KR6n0143_X_001-mulu-1, level: '1'}
+metadata:
+  title: 相宗八要
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0899.xml
+    old_id: X55n0899
+hash: sha256:6c746d91f069c6267da0f117cd67ac6a63d5aa103a68279b5ed40ec462fbb85e
