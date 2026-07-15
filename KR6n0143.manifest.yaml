@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0143/v1
 canonical_location: https://kanripo.org/bkk/KR6n0143/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 相宗八要
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6n0143_001.yaml, hash: 'sha256:6c746d91f069c6267da0f117cd67ac6a63d5aa103a68279b5ed40ec462fbb85e'}
+  - {seq: 1, filename: KR6n0143_001.yaml, hash: 'sha256:f6659a3964b63c1a02d7fd871cbfda9bda9b7a762c126a36882bfe2f32987700'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0143_001.markers.yaml, hash: 'sha256:ad5ffb5a9d730a519f518934b5008b9c87deeb148b4d146139d24a9583e63d69'}
+  - {seq: 1, role: markers, filename: assets/KR6n0143_001.markers.yaml, hash: 'sha256:39576618a65ef558a29ad0bf2edddde0ff6049644567bcd59532676cc867db15'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,6 +40,9 @@ table_of_contents:
   label: No. 899-A 因明入正理論題辭
   type: mulu
   level: 1
-hash: sha256:0a19e51672fe4c37b5ae0c4127688c2ffc642106e67d2bec09e8ab425057bfbf
+hash: sha256:910343fb45c8d5153b78ff642decbaf493b78deb8d5fc06d68fd67df95b2eaa4
 editions:
 - short: X
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
